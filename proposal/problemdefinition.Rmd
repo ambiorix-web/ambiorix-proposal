@@ -1,5 +1,5 @@
 # The Problem
-<!-- 
+<!--
 Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!
 
 It is important to cover:
@@ -10,4 +10,19 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
+While R excels in data analysis and visualization, its web development
+ecosystem lags behind other languages. A more traditional, mature &
+production-ready web framework is missing, hindering R's adoption for building
+complex, scalable web applications.
 
+Existing solutions (most notably Shiny and Plumber), while offering valuable
+capabilities, often fall short in comparison to full-fledged frameworks in
+languages like Python (Django), PHP (Laravel), and JavaScript (Express.js).
+
+These frameworks provide comprehensive features such as robust routing,
+advanced templating, and extensive middleware support, essential for building
+production-grade web applications.
+
+This lack of a mature, feature-rich web framework in R contributes to the
+perception of R as unsuitable for production environments, stifling innovation
+and limiting the potential of R for data-driven web applications.
