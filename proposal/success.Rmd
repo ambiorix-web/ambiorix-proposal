@@ -1,25 +1,44 @@
 # Success
-<!-- 
-Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
+<!--
+Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery
 -->
 
 ## Definition of done
-<!-- 
-What does success look like? 
+<!--
+What does success look like?
 -->
+
+Success is achieved when:
+
+- Ambiorix's core performance is significantly improved as measured by benchmarks.
+- A stable deployment infrastructure is established, hosting multiple example
+applications.
+- Comprehensive documentation, including a book, is produced and made publicly
+available.
+- The ambiorix community demonstrates increased adoption and usage.
 
 ## Measuring success
-<!-- 
-How will we know when success is achieved, what markers can we use along the way 
+<!--
+How will we know when success is achieved, what markers can we use along the way
 -->
 
+Success will be measured by:
+
+- Performance benchmarks before and after optimization.
+- User feedback and adoption metrics for the deployed example applications.
+- Completion of the documentation and book.
+- Increased GitHub stars, CRAN downloads, and community contributions.
+
 ## Future work
-<!-- 
+<!--
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
 
+- Create additional example applications to showcase diverse use cases.
+- Expand ambiorix's feature set based on community feedback and needs.
+
 ## Key risks
-<!-- 
+<!--
 What sort of things could come up that can delay or break the project?
 
  - [ ] People
@@ -28,3 +47,28 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+
+### People
+
+- Core team availability: Ensuring consistent commitment from both John Coene
+and Kennedy Mwavu.
+- Community involvement: Relying on sufficient community contributions and
+feedback for project success.
+
+### Processes
+
+- Scrope creep: Managing project scope to avoid delays and resource over-allocation.
+- Technical challenges: Encountering unforeseen technical obstacles that require
+additional time and effort.
+
+### Tooling & Technology
+
+- Dependency issues: Challenges with compatibility or updates of third-party
+tools & libraries.
+- Infrastructure reliability: Potential issues with the EC2 instance.
+
+### Costs
+
+- Unexpected expenses: Unforeseen costs related to infrastracture, tools or services.
+- Budget constraints: Insufficient funding to cover all planned activities.
+
