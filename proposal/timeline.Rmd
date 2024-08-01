@@ -10,13 +10,23 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
+Already done:
+- Setting up collaboration platform
+- Licence decisions
+- Reporting framework
 
 ## Technical delivery
 <!--
-Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
+Covering the actual delivery of the project this section should provide at least a high-level the implementation.
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
+
+- Month 1-4: Implement performance optimizations and benchmark improvements.
+- Month 4-6: Enhance error handling and debugging capabilities.
+- Month 6-7: Set up EC2 instance and deploy example applications.
+- Month 7-8: Develop core documentation structure and initial content.
+- Month 8-12: Create in-depth book on ambiorix.
 
 ## Other aspects
 <!--
@@ -28,3 +38,7 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] UseR!
  - [ ] ISC meetings
 -->
+
+- Ongoing: Maintain active communication through GitHub and X.
+- Month 12: Submit a final report to the R Consortium, including project outcomes
+and recommendations.
