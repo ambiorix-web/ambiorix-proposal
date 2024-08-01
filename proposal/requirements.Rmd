@@ -1,5 +1,5 @@
 # Requirements
-<!-- 
+<!--
 An idea of what is required to make the project actually happen
 -->
 
@@ -8,27 +8,67 @@ An idea of what is required to make the project actually happen
 Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
 -->
 
+**Core Team:**
+
+- John Coene and Kennedy Mwavu will be responsible for the project's execution.
+
+**Proposed Structure:**
+
+- A collaborative, agile approach will be adopted, with both team members
+contributing to all aspects of the project.
+- Regular communication and code reviews will ensure efficient knowledge sharing
+and quality control.
+
+**Involvement:**
+
+- Both John and Kennedy are fully committed to the project and will dedicate the
+necessary time and resources.
+- We anticipate active participation from the R community through issue reporting,
+feature requests, and potential contributions.
+
 ## Processes
-<!-- 
+<!--
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
+- **Agile Development:** We will employ an agile methodology with iterative
+development and regular feedback loops.
+- **Open Source Governance:** The project will adhere to open source principles,
+including transparent development, collaborative decision-making, and permissive
+licensing.
+- **Community Engagement:** Regular communication and updates through channels like
+GitHub, and social media will be maintained.
 
 ## Tools & Tech
 <!--
-What is going to be needed to deliver this project? 
+What is going to be needed to deliver this project?
 
 Will cloud computing be used - if yes are there are necessary components that will be deciding factors between providers?
 
 Are there tools or tech that don't exist that will be produced to facilitate the project?
 -->
 
+- R: Core language for the framework development.
+- Git: For version control and collaboration.
+- GitHub: For code hosting and issue tracking.
+- AWS: For EC2 instance to host example applications.
+
 ## Funding
-<!-- 
+<!--
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 
 -->
+
+A total of USD 25,000 is requested for the following:
+
+- **Personnel Costs:** Covering a portion of development time for John Coene and Kennedy Mwavu.
+- **Infrastructure Costs:** EC2 instance, domain registration, and cloud storage.
 
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
+
+The successful execution of this project requires a dedicated core team,
+active community involvement, and a well-defined development process. The
+proposed funding will be allocated to personnel and infrastructure to achieve
+the project goals.
