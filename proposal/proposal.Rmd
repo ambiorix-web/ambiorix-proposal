@@ -1,12 +1,27 @@
 # The proposal
 <!--
-This is where the proposal should be outlined. 
+This is where the proposal should be outlined.
 -->
 
 ## Overview
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
+
+This proposal seeks funding to advance the [ambiorix R web framework](https://ambiorix.dev/), addressing the critical gap in the R ecosystem for a robust,
+feature-rich, and production-ready web application framework.
+
+By investing in ambiorix, the R Consortium will empower the community to build
+complex and yet scalable web applications using R, expanding its reach and
+impact in data-driven domains.
+
+The proposed funding will be used to enhance ambiorix's core functionalities,
+establish a deployment infrastructure for [showcase applications/examples](https://github.com/kennedymwavu/ambiorix-examples), and create comprehensive
+documentation, including a dedicated book.
+
+These initiatives will significantly improve ambiorix's maturity and user
+experience, fostering wider adoption and contributing to the growth of the R
+ecosystem.
 
 ## Detail
 <!--
@@ -18,3 +33,29 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
+
+### MVP
+The MVP focuses on three key areas:
+
+1. **Core Framework Enhancements:**
+        - Performance Optimizations:
+            - Benchmarking and identifying performance bottlenecks.
+            - Implementing optimizations for common operations, notably: routing, templating and parsing of JSON.
+            - Exploring asynchronous programming patterns for I/O-bound tasks.
+        - Error handling and Debugging:
+            - Improving error messages and stack traces for better debugging, improving developer experience.
+1. **Deployment Infrastructure:** Set up an EC2 instance to host example
+applications, providing tangible demonstrations of the framework's potential.
+1. **Documentation:** Create a comprehensive documentation structure covering
+core concepts. In addition, write a book dedicated to ambiorix discussing in detail
+the framework's features and capabilities.
+
+### Architecture
+
+The project will adopt an iterative development approach, with regular feedback loops from the community. The core framework improvements will be built upon ambiorix's existing architecture, focusing on modularity and extensibility. The deployment infrastructure will utilize standard EC2 services, ensuring scalability and reliability. Documentation will be structured using a clear and consistent format, leveraging existing R documentation standards.
+
+### Assumptions
+
+- The ambiorix team possesses the necessary expertise to execute the proposed work.
+- Sufficient community engagement and feedback will be available throughout the
+project.
