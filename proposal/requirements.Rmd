@@ -10,7 +10,28 @@ Who needs to be involved, what's the proposed structure, what will it take to ge
 
 **Core Team:**
 
-- John Coene and Kennedy Mwavu will be responsible for the project's execution.
+John Coene and Kennedy Mwavu will be lead the project, leveraging their
+extensive experience and contributions to the R ecosystem to ensure successful
+execution.
+
+- **John Coene** is the founder of Opifex and a prominent figure in the R
+community. He has delivered numerous talks on R and authored several influential 
+R packages, including [echarts4r](https://github.com/JohnCoene/echarts4r),
+[firebase](https://github.com/JohnCoene/firebase) and 
+[waiter](https://github.com/JohnCoene/waiter). John is also the author of the
+Ambiorix web framework, which aims to enhance R's capabilities in web development
+by providing a more structured and robust framework.
+
+- **Kennedy Mwavu** is a software developer with a strong background in the
+insurance industry and over four years of experience in using R for software and
+web development. His deep understanding of the R ecosystem and its current
+limitations informs his work on improving R's web development tools. Kennedy has
+authored several R packages, including [rmon](https://github.com/kennedymwavu/rmon),
+a tool for monitoring and auto-reloading R scripts;
+[frbs](https://github.com/kennedymwavu/frbs), an R wrapper for Google's Firebase 
+Authentication; and
+[micromodal](https://github.com/kennedymwavu/micromodal), a package for creating
+accessible modals in R Shiny.
 
 **Proposed Structure:**
 
@@ -21,17 +42,22 @@ and quality control.
 
 **Involvement:**
 
-- Both John and Kennedy are fully committed to the project and will dedicate the
-necessary time and resources.
+- Both John and Kennedy are fully committed to the success of this project. They
+will allocate the necessary time, expertise, and resources to ensure its
+successful execution.
 - We anticipate active participation from the R community through issue reporting,
 feature requests, and potential contributions.
+- We also plan to actively seek feedback from other R developers and users. This
+will help tailor the framework to the needs of its users and foster a strong
+community around it.
 
 ## Processes
 <!--
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
 - **Agile Development:** We will employ an agile methodology with iterative
-development and regular feedback loops.
+development and regular feedback loops. This approach will allow us to rapidly
+respond to changes and incorporate user feedback effectively.
 - **Open Source Governance:** The project will adhere to open source principles,
 including transparent development, collaborative decision-making, and permissive
 licensing.
@@ -58,10 +84,19 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 
 -->
 
-A total of USD 25,000 is requested for the following:
+We request a total of USD XXX to cover the following essential components:
 
-- **Personnel Costs:** Covering a portion of development time for John Coene and Kennedy Mwavu.
-- **Infrastructure Costs:** EC2 instance, domain registration, and cloud storage.
+- **Personnel Costs:** This will compensate for the time and expertise of
+John Coene and Kennedy Mwavu, who will be dedicating significant effort to the
+development, coordination, and management of the project.
+- **Infrastructure Costs:** This includes the cost of an AWS EC2 instance for
+hosting example applications, domain registration, and cloud storage. These
+resources are crucial for testing and demonstrating the framework's capabilities
+in real-world scenarios.
+
+This funding is designed to ensure the project's success by covering both
+human and technical resources necessary for its development and long-term
+viability.
 
 ## Summary
 <!--
@@ -70,5 +105,6 @@ A summary of the requirements that contextualises the costs
 
 The successful execution of this project requires a dedicated core team,
 active community involvement, and a well-defined development process. The
-proposed funding will be allocated to personnel and infrastructure to achieve
-the project goals.
+requested funding will directly support the critical components of personnel and
+infrastructure, enabling us to develop a mature, feature-rich web framework for
+R.
