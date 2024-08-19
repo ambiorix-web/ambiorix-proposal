@@ -10,10 +10,19 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
-Already done:
-- Setting up collaboration platform
-- Licence decisions
-- Reporting framework
+The start-up phase has already laid a strong foundation for the project's 
+success, with the following tasks completed:
+
+- **Collaboration Platform:** A collaborative environment is in place, including
+repositories and communication channels, to facilitate seamless contributions and 
+coordination among team members. You can view the GitHub repo [here](https://github.com/devOpifex/ambiorix).
+- **License Decisions:** The project will operate under a GNU General Public
+Licence, ensuring accessibility and encouraging widespread adoption and 
+contribution.
+- **Reporting Framework:** A structured reporting framework has been established, 
+providing clear guidelines for tracking progress, documenting issues, and 
+sharing updates with stakeholders.
+
 
 ## Technical delivery
 <!--
@@ -22,11 +31,34 @@ Covering the actual delivery of the project this section should provide at least
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
 
-- Month 1-4: Implement performance optimizations and benchmark improvements.
-- Month 4-6: Enhance error handling and debugging capabilities.
-- Month 6-7: Set up EC2 instance and deploy example applications.
-- Month 7-8: Develop core documentation structure and initial content.
-- Month 8-12: Create in-depth book on ambiorix.
+- **Month 1-4: Performance Optimization**
+    - Implement critical performance optimizations to improve Ambiorix's speed 
+      and efficiency.
+    - Conduct thorough benchmarking to measure and validate the improvements.
+
+- **Month 4-6: Error Handling & Debugging Enhancements**
+    - Enhance the framework's error handling and debugging capabilities, making 
+      it more robust and user-friendly.
+    - Introduce advanced logging and diagnostic tools to aid in development and 
+      troubleshooting.
+
+- **Month 6-7: Infrastructure Setup & Deployment**
+    - Set up an AWS EC2 instance to host example applications, showcasing the 
+      framework's capabilities in real-world scenarios.
+    - Ensure the deployment environment is stable, scalable, and easy to 
+      replicate for users.
+
+- **Month 7-8: Documentation Development**
+    - Develop the core structure of the documentation, ensuring it is clear, 
+      comprehensive, and accessible.
+    - Produce initial content covering installation, basic usage, and key features.
+
+- **Month 8-12: In-Depth Book Creation**
+    - Author a detailed book on Ambiorix, covering advanced topics, best 
+      practices, and real-world applications.
+    - Make the book publicly available as both a free online resource and a 
+      published work.
+
 
 ## Other aspects
 <!--
@@ -39,6 +71,11 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] ISC meetings
 -->
 
-- Ongoing: Maintain active communication through GitHub and X.
-- Month 12: Submit a final report to the R Consortium, including project outcomes
-and recommendations.
+- **Ongoing: Community Engagement** 
+    - Maintain active communication through GitHub and X.
+    - Regularly update the community on progress, milestones, and opportunities
+      for contribution.
+- **Month 12: Final Report & Outreach** 
+    - Submit a comprehensive final report to the R Consortium, detailing the 
+      project's outcomes, lessons learned, and recommendations for future 
+      development.
