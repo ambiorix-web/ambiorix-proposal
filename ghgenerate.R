@@ -1,4 +1,4 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"Ambiorix ISC Proposal"
 proposal.file<-"isc-proposal.Rmd"
 author<-c("John Coene", "Kennedy Mwavu")
 
