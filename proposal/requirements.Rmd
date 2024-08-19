@@ -14,8 +14,8 @@ John Coene and Kennedy Mwavu will be lead the project, leveraging their
 extensive experience and contributions to the R ecosystem to ensure successful
 execution.
 
-- **John Coene** is the founder of Opifex and a prominent figure in the R
-community. He has delivered numerous talks on R and authored several influential 
+- **John Coene** is the founder of two R consulting companies.
+He has delivered numerous talks on R and authored several influential 
 R packages, including [echarts4r](https://github.com/JohnCoene/echarts4r),
 [firebase](https://github.com/JohnCoene/firebase) and 
 [waiter](https://github.com/JohnCoene/waiter). John is also the author of the
@@ -36,7 +36,9 @@ accessible modals in R Shiny.
 **Proposed Structure:**
 
 - A collaborative, agile approach will be adopted, with both team members
-contributing to all aspects of the project.
+contributing to all aspects of the project, though Kennedy Mwavu is expected
+to deliver the majority of the work, whilst John, the author of the library is
+mainly to serve as support.
 - Regular communication and code reviews will ensure efficient knowledge sharing
 and quality control.
 

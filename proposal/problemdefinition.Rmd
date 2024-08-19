@@ -15,13 +15,16 @@ ecosystem lags behind other languages. A more traditional, mature &
 production-ready web framework is missing, hindering R's adoption for building
 complex, scalable web applications.
 
-Existing solutions (most notably Shiny and Plumber), while offering valuable
-capabilities, often fall short in comparison to full-fledged frameworks in
-languages like Python (Django), PHP (Laravel), and JavaScript (Express.js).
+Shiny offers a specialised solution to design Single Page Applications with a 
+reactive back-end. Whilst Plumber focuses on the development of RESTful
+Application Programming Interfaces generally returning JSON.
+The R programming language and the community could benefit from a
+more traditional web framework as found in other languages such as
+Django in Python, Laravel in PHP, or Express.js in JavaScript.
 
-These frameworks provide comprehensive features such as robust routing,
-advanced templating, and extensive middleware support, essential for building
-production-grade web applications.
+These frameworks provide features currently not available in the R ecosystem,
+features such as robust routing, advanced templating, and extensive middleware support, 
+essential for building production-grade web applications.
 
 This lack of a mature, feature-rich web framework in R contributes to the
 perception of R as unsuitable for production environments, stifling innovation
