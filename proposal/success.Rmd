@@ -10,32 +10,49 @@ What does success look like?
 
 Success is achieved when:
 
-- Ambiorix's core performance is significantly improved as measured by benchmarks.
-- A stable deployment infrastructure is established, hosting multiple example
-applications.
-- Comprehensive documentation, including a book, is produced and made publicly
-available.
-- The ambiorix community demonstrates increased adoption and usage.
+- **Enhanced Performance:** Ambiorix's core performance is significantly 
+improved, with measurable gains in speed and efficiency, as demonstrated by 
+comprehensive benchmarking.
+- **Stable Deployment:** A reliable and scalable deployment infrastructure is 
+established, successfully hosting multiple example applications that showcase 
+Ambiorix's capabilities in diverse scenarios.
+- **Comprehensive documentation:** Complete and accessible documentation is 
+produced, including a detailed book that guides users from installation to 
+advanced use cases, making it easier for new users to adopt Ambiorix.
+- **Community Adoption:** The Ambiorix framework sees a noticeable increase in 
+adoption and usage within the R community, reflected by community engagement, 
+project contributions, and positive feedback.
 
 ## Measuring success
 <!--
 How will we know when success is achieved, what markers can we use along the way
 -->
 
-Success will be measured by:
+We will track progress and measure success through the following indicators:
 
-- Performance benchmarks before and after optimization.
-- User feedback and adoption metrics for the deployed example applications.
-- Completion of the documentation and book.
-- Increased GitHub stars, CRAN downloads, and community contributions.
+- **Performance Metrics:** Pre- and post-optimization benchmarks will be 
+analyzed to quantify improvements in speed, scalability, and resource 
+utilization.
+- **User Engagement:** Adoption and user satisfaction will be gauged through 
+metrics such as GitHub stars, CRAN downloads, issue reporting, and community 
+contributions.
+- **Documentation Completion:** The successful publication and positive 
+reception of the documentation and book will be key markers of success.
 
 ## Future work
 <!--
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
 
-- Create additional example applications to showcase diverse use cases.
-- Expand ambiorix's feature set based on community feedback and needs.
+- **Expanding Use Cases:** Developing additional example applications to cover 
+a broader range of use cases, further demonstrating Ambiorix's versatility and 
+applicability.
+- **Feature Enhancements:** Continuously expanding Ambiorix's feature set based 
+on feedback from the community, ensuring it evolves to meet emerging needs and 
+technological advancements.
+- **Educational Resources:** Creating more educational resources, such as 
+tutorials, webinars, and workshops, to further support and grow the Ambiorix 
+user base.
 
 ## Key risks
 <!--
@@ -50,25 +67,36 @@ What sort of things could come up that can delay or break the project?
 
 ### People
 
-- Core team availability: Ensuring consistent commitment from both John Coene
-and Kennedy Mwavu.
-- Community involvement: Relying on sufficient community contributions and
-feedback for project success.
+- **Core team availability:** The success of the project depends on the 
+consistent commitment and availability of both John Coene and Kennedy Mwavu. 
+Any disruptions in their availability could delay the project.
+- **Community involvement:**  The project's success is also reliant on active 
+community contributions and feedback. Insufficient community engagement could 
+limit the project's impact.
 
 ### Processes
 
-- Scrope creep: Managing project scope to avoid delays and resource over-allocation.
-- Technical challenges: Encountering unforeseen technical obstacles that require
-additional time and effort.
+- **Scrope creep:** Managing the project scope will be critical to avoid delays 
+and over-allocation of resources. Clear milestones and regular reviews will be 
+implemented to keep the project on track.
+- **Technical challenges:** Unforeseen technical obstacles, such as complex 
+compatibility issues or performance bottlenecks, could require additional time 
+and effort to resolve, potentially delaying the project.
 
 ### Tooling & Technology
 
-- Dependency issues: Challenges with compatibility or updates of third-party
-tools & libraries.
-- Infrastructure reliability: Potential issues with the EC2 instance.
+- **Dependency management:** Challenges related to compatibility or updates of 
+third-party tools and libraries could arise, requiring careful management to 
+prevent disruptions.
+- **Infrastructure reliability:**  Potential issues with the AWS EC2 instance or 
+other infrastructure components could affect the stability and availability of 
+the deployed applications.
 
 ### Costs
 
-- Unexpected expenses: Unforeseen costs related to infrastracture, tools or services.
-- Budget constraints: Insufficient funding to cover all planned activities.
+- **Unexpected expenses:** Unforeseen costs related to infrastructure, tools, or 
+services could arise, necessitating careful budget management and contingency 
+planning.
+- **Budget constraints:** If funding proves insufficient to cover all planned 
+activities, certain project components may need to be scaled back or postponed.
 
