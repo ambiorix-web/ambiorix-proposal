@@ -41,14 +41,14 @@ Depending on project type the detail section should include:
 The MVP focuses on three key areas:
 
 1. **Core Framework Enhancements:**
-        - Performance Optimizations:
-            - Benchmarking and identifying performance bottlenecks.
-            - Implementing optimizations for common operations, notably: 
-              routing, templating, and parsing of JSON.
-            - Exploring asynchronous programming patterns for I/O-bound tasks.
-        - Error handling and Debugging:
-            - Improving error messages and stack traces for better debugging, 
-              improving developer experience.
+    - Performance Optimizations:
+        - Benchmarking and identifying performance bottlenecks.
+        - Implementing optimizations for common operations, notably: 
+          routing, templating, and parsing of JSON.
+        - Exploring asynchronous programming patterns for I/O-bound tasks.
+    - Error handling and Debugging:
+        - Improving error messages and stack traces for better debugging, 
+          improving developer experience.
 2. **Deployment Infrastructure:** Set up an EC2 instance to host example
 applications, providing tangible demonstrations of the framework's potential.
 3. **Documentation:** Create a comprehensive documentation structure covering
