@@ -25,3 +25,4 @@ Who has been given the opportunity to provide feedback on the proposal? This sho
 
 - [Josiah Parry](https://github.com/josiahparry)
 
+- [Bruno Rodrigues](https://github.com/b-rodrigues) 
