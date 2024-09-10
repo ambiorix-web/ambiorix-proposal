@@ -48,17 +48,11 @@ Including target dates is really important as you need to be committed and the I
     - Ensure the deployment environment is stable, scalable, and easy to 
       replicate for users.
 
-- **Month 7-8: Documentation Development**
-    - Develop the core structure of the documentation, ensuring it is clear, 
-      comprehensive, and accessible.
-    - Produce initial content covering installation, basic usage, and key features.
-
-- **Month 8-12: In-Depth Book Creation**
-    - Author a detailed book on Ambiorix, covering advanced topics, best 
-      practices, and real-world applications.
-    - Make the book publicly available as both a free online resource and a 
-      published work.
-
+- **Month 7-12: Rapid App Design Tools Development**
+    - Develop a suite of packages to simplify and accelerate the initial project
+    setup, improving development ergonomics.
+    - Create optional pre-built components or templates to facilitate rapid 
+    prototyping without imposing a specific CSS or JS framework.
 
 ## Other aspects
 <!--

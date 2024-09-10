@@ -16,9 +16,11 @@ comprehensive benchmarking.
 - **Stable Deployment:** A reliable and scalable deployment infrastructure is 
 established, successfully hosting multiple example applications that showcase 
 Ambiorix's capabilities in diverse scenarios.
-- **Comprehensive documentation:** Complete and accessible documentation is 
-produced, including a detailed book that guides users from installation to 
-advanced use cases, making it easier for new users to adopt Ambiorix.
+- **Rapid App Design Tools:** A suite of tools and packages is developed to 
+enable faster app design and setup, improving the ergonomics and speed of 
+development without compromising the framework's flexibility. These tools 
+should be well-documented and easy to adopt, resulting in a shorter 
+time-to-first-app.
 - **Community Adoption:** The Ambiorix framework sees a noticeable increase in 
 adoption and usage within the R community, reflected by community engagement, 
 project contributions, and positive feedback.
@@ -36,8 +38,10 @@ utilization.
 - **User Engagement:** Adoption and user satisfaction will be gauged through 
 metrics such as GitHub stars, CRAN downloads, issue reporting, and community 
 contributions.
-- **Documentation Completion:** The successful publication and positive 
-reception of the documentation and book will be key markers of success.
+- **Rapid App Design Tools Adoption:** The success of the new tools will be 
+measured by their adoption rate, feedback from users, and the number of 
+community contributions related to these tools. A reduction in time-to-first-app
+and increased satisfaction from developers will be key markers of success.
 
 ## Future work
 <!--

@@ -20,7 +20,8 @@ impact in data-driven domains.
 The proposed funding will be used to enhance ambiorix's core functionalities,
 establish a deployment infrastructure for 
 [showcase applications/examples](https://github.com/kennedymwavu/ambiorix-examples),
-and create comprehensive documentation, including a dedicated, freely available, book.
+and develop a suite of rapid app design tools to streamline the development
+process.
 
 These initiatives will significantly improve ambiorix's maturity and user
 experience, fostering wider adoption and contributing to the growth of the R
@@ -51,9 +52,9 @@ The MVP focuses on three key areas:
           improving developer experience.
 2. **Deployment Infrastructure:** Set up an EC2 instance to host example
 applications, providing tangible demonstrations of the framework's potential.
-3. **Documentation:** Create a comprehensive documentation structure covering
-core concepts. In addition, write a book dedicated to ambiorix discussing in 
-detail the framework's features and capabilities.
+3. **Rapid App Design Tools:** 
+    - Develop a suite of packages to simplify and accelerate the initial setup process and improve development ergonomics.
+    - Provide optional pre-built components or templates that do not impose a specific CSS or JS framework but offer convenience for rapid prototyping.
 
 ### Architecture
 
