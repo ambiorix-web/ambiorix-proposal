@@ -11,7 +11,7 @@ Who are the people responsible for actually delivering the project if the propos
 -->
 
 - John Coene: Ambiorix creator
-- Kennedy Mwavu
+- Kennedy Mwavu: Contributor to Ambiorix
 
 ## Contributors
 <!--
